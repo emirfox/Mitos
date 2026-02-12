@@ -1,0 +1,52 @@
+﻿Graduate Technology Analyst rotation update and next steps
+
+
+Hello Martin,
+I hope you’re doing well. I’m writing to share an update on my current rotation as a Graduate Technology Analyst, reflect on how it has aligned with my expectations of the programme so far, and ask for guidance on how my future rotations can be better aligned with the Technology Analyst role.
+I joined Barclays in August, and for my first rotation I was placed in the Markets Pre-Trade Technology Risk and Control team. Our team is responsible for managing Risk and Control activities across various technology functions in the bank. This includes raising issues, entering them into ORAC, engaging with technology stakeholders on remediation actions, and driving issues through to governance-approved closure.
+Since joining, I have been involved in a variety of tasks, including:
+• ﻿﻿Acting as an Issue Delegate for the first three months across several business areas within Markets Pre-Trade. In this role, I participated in stakeholder meetings and supported the preparation of issue closure packs.
+• ﻿﻿Updating issues in ORAC and assisting in the overall management and tracking of issues.
+• ﻿﻿Assisting in filtering and structuring Excel spreadsheets to create easier-to-use views for several tasks.
+• ﻿﻿Creating a new root-cause template to improve the consistency and quality of issue documentation.
+• ﻿﻿Supporting the Cybersecurity team by contacting application owners for both non-production and production applications, and involving them in the relevant ORAC items with the wider team to ensure governance is appropriately followed.
+• ﻿﻿Working as a SOX Audit Delegate, where I tracked evidence owners following KPMG-reported inefficiencies, responded to evidence requests, and ensured the audit process ran smoothly.
+• ﻿﻿Reviewing issues, actions, and risk-event entries in ORAC to ensure they were clear, concise, and aligned with data-quality expectations from a cold reader's perspective, and providing relevant feedback to Risk & Control partners ahead of the migration to ServiceNow (SNOW).
+
+Upcoming tasks include:
+• Creating an improved RICM (Risk Issue Control Matrix) document to support better risk evaluation.
+• Building a new Confluence page for our team to improve documentation and accessibility,
+This rotation has benefited me in many ways and significantly expanded my skill set, particularly in stakeholder management and the Risk & Control function. I’m genuinely grateful to all my team members, especially my Line Manager, Clare White, and my Supervisor, Struan Cunningham, for their support and guidance throughout this rotation.
+However, I wanted to share a concern around alignment. While this role has been valuable, it has offered limited exposure to hands-on technical problem solving and technology delivery. My work has largely focused on risk, controls, governance processes, and stakeholder coordination, and I have not had the opportunity to contribute directly to designing, building, testing, or maintaining technology solutions.
+Based on the role description and the interview process, my main interest in joining the programme was the opportunity to work on technology products and gain exposure to a range of technical functions across the bank. With a First Class degree in Electronics and Computer Science from the University of Edinburgh, and prior experience across areas such as software development, data, and engineering, I believed the programme would be a strong fit and a platform to further apply and develop my technical foundation within Barclays’ technology function. While I have developed valuable skills in stakeholder management and governance, I feel there is a mismatch between the programme expectations communicated prior to joining and my experience during this first rotation (now seven months in).
+On the job description where I applied to Barclays. It directly states:
+“
+(From the website)
+As a Technology Analyst, you'll play a critical role in helping drive forward change and innovative solutions to complex problems. You'll work with business areas to understand their needs and convey them to the technology team. Together, you'll create technology solutions for the business that will increase performance. You'll develop a solid understanding of the global markets and finance and the technologies that will transform the industry.
+“
+“
+(From the website)
+Technology at Barclays
+Why build a career in Technology in our global business? Because this is where some of the industry's biggest innovations were born - and you could create the next. Join us and work alongside industry experts who are behind major leaps in FinTech. You'll be following our innovative learning programme which includes on-the-job training and valuable hands-on experience.
+Come and work side by side with the brains behind our tech. This is more than just learning how to code; you'll take on real, challenging work from the very start as you design, install, test and maintain new and existing systems. Together, let's continue designing innovative solutions, products and services for our colleagues, clients and customers around the world
+“
+“
+(From the website)
+What we are looking for
+An interest in working in technology, the ability to act as a bridge between the business and technology teams, and a passion to deliver the next technological breakthrough.
+Purpose of the role
+To participate in the day-to-day operations of the technology function, working across a range of technology capabilities for our customers and colleagues Accountabilities
+﻿﻿Participation in design and innovation of products using the newest technologies.
+﻿﻿Cross-functional collaboration with the business to understand their needs and convey them to the broader development team, ensure seamless integration and alignment with business objectives.
+﻿﻿Development of change and innovative solutions.
+Analyst Expectations
+• Resolve problems by identifying and selecting solutions through the application of acquired technical experience and will be guided by precedents.
+“
+In relation to these expectations, I would appreciate support in ensuring my development over the remainder of the programme is aligned with the core Technology Analyst capabilities—particularly hands-on technology delivery, structured problem solving, and working closely with technical teams. This rotation has strengthened my governance and stakeholder management skills, and I am keen to build on that by gaining more direct exposure to designing, developing, testing, and maintaining technology solutions. The recruitment process also reinforced this emphasis (particularly the final-stage interview scenario focused on approaching a technological problem), and I would like to ensure my future rotations provide the opportunity to develop and demonstrate those skills in practice.
+With this in mind, I would really appreciate your guidance on next steps and how we can better align the remainder of my programme with the intended Technology Analyst experience. In particular, I would be keen to explore:
+• Whether a transfer to a more software development–focused pathway (e.g., Graduate Technology Developer, if available) could be considered. My main passion is in software development, and I strongly believe this is where I can add the most value for both myself and Barclays, have the greatest impact, and contribute most effectively. I would be very open to the opportunity to prove myself in a Graduate Technology Developer role and demonstrate my capabilities in a hands-on engineering environment; or
+• If not, ensuring my upcoming rotations are in more technically focused teams where I can contribute to problem solving, design, development, testing, and delivery of technology solutions.
+I’m very motivated to make a strong contribution to Barclays, and I believe I can add the most value in roles that are closer to technology delivery and software engineering. Please let me know if you need any other information from me, and thank you for your help and time in advance.
+All the best,
+Emir Ersanli
+Link to the job description: https://www.brightnetwork.co.uk/graduate-jobs/barclays/technology-analyst-graduate-programme-2025
